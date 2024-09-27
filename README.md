@@ -4,6 +4,10 @@ This project focuses on investment preferences of individuals highlighting gende
 Tools Used:
 Power BI
 
+![DASHBOARD](https://github.com/user-attachments/assets/af316d83-df0b-403c-9a2f-51df7d545ccd)
+
 ![TASK1](https://github.com/user-attachments/assets/486da657-dbec-48ec-9224-4f3e36f10826)
+
+
 
 
