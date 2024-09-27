@@ -4,4 +4,4 @@ This project focuses on investment preferences of individuals highlighting gende
 Tools Used:
 Power BI
 
-![](D:\Internship)
+
