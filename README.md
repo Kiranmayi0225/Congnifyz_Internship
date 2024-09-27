@@ -66,6 +66,15 @@
 
 **𝐋𝐞𝐯𝐞𝐫𝐚𝐠𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭𝐬:** **Continue to utilize financial consultants to build trust and provide personalized investment strategies, while also encouraging them to incorporate online resources for better support.**
 
+**For live dashboard and complete report  please visit below links:**
+
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjYmE3YjAtY2JiOS00NzY1LWFlZDgtYjQzMjg3NDQ2NGFkIiwidCI6IjExNmM3YTlmLTI2ZDYtNDhjZC1hNDVmLTRkNmMzZGY0MDM3YSJ9)
+
+[Report](https://app.powerbi.com/view?r=eyJrIjoiMzg0MDY0MmYtMmY3Yi00NjczLThlNjctMTY2ODM4YjAxOGY4IiwidCI6IjExNmM3YTlmLTI2ZDYtNDhjZC1hNDVmLTRkNmMzZGY0MDM3YSJ9)
+
+
+
+
 
 
 
